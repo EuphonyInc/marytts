@@ -3,8 +3,66 @@ Eire | ' E - r @
 speech | ' s p i tS 
 hasnt | ' h { z n t
 havent | ' h { v n t
-mustnt | ' m V s n t
+mustnt | ' m V s @ n t
 isnt | ' I z n t
 Greta | ' g r { - t A
 minute | ' m I - n I t
 does | ' d V z
+aha | @ - ' h A @
+di'int | ' d I - ' I n t
+bazinga | b @ - ' z i N - g @
+shit | ' S I t
+hello | h E - ' l @U
+I'm | ' AI m
+eggs | ' E - g z
+Fuz | ' f @ z
+China | ' tS AI - n @
+China’s | ' tS AI - n @ z
+Chinese | tS AI - ' n i z
+US | ' j u - ' E s
+she'll | ' S i l
+arent | ' A r n t
+could've | ' k U d - @ v
+I'd | ' AI d
+I'll | ' AI l
+I’ve | ' AI v
+it'd | ' I t - @ d
+it'll | ' I t - @ l
+mightnt | ' m AI t - @ n t
+might've | ' m AI t - @ v
+must've | ' m V s t - @ v
+oughtnt | ' A t - @ n t
+she'd | ' S i d
+she's | ' S i z
+should've | ' S U d - @ v
+someone'd | ' s V m - w V n @ d
+someone'll | ' s V m - w V n @ l
+someone's | ' s V m - w V n z
+something'd | ' s V m - T i N @ d
+something'll | ' s V m - T i N @ l
+something's | ' s V m - T i N z
+that'd | ' D { t - @ d
+there're | ' D E r - r=
+they'd | ' D EI d
+they'll | ' D EI @ l
+they're | ' D EI r=
+they've | ' D EI v
+wasn't | ' w v z - @ n t
+we're | ' w i r=
+werent | ' w r= r n t
+what'd | ' w V t - @ d
+what'll | ' w V t - @ l
+what're | ' w V t - r=
+what's | ' w V t s
+what've | ' w V t - @ v
+where've | ' w E r - @ v
+who'd | ' h u d
+who'll | ' h u - @ l
+who're | ' h u - r=
+who's | ' h u z
+who've | ' h u - @ v
+why're | ' w AI - r=
+would've | ' h u d - @ v
+wouldn't | ' w U d _ @ n t
+you'll | ' j u - @ l
+you're | ' ju - r=
