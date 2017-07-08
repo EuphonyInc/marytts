@@ -1,0 +1,15 @@
+0609cd9e9748c44290072ff502f53e90  ./en_USX.lts
+0609cd9e9748c44290072ff502f53e90  ./new_lex_from_mac/cmudict.lts
+0609cd9e9748c44290072ff502f53e90  ./test_en_USX.lts
+327d337aa6e5fc74f75a48ad9f42b747  ./en_USX_lexicon.fst
+327d337aa6e5fc74f75a48ad9f42b747  ./new_lex_from_mac/cmudict.fst
+327d337aa6e5fc74f75a48ad9f42b747  ./test_en_USX_lexicon.fst
+0609cd9e9748c44290072ff502f53e90  ./en_USX.lts
+0609cd9e9748c44290072ff502f53e90  ./new_lex_from_mac/cmudict.lts
+0609cd9e9748c44290072ff502f53e90  ./test_en_USX.lts
+327d337aa6e5fc74f75a48ad9f42b747  ./en_USX_lexicon.fst
+327d337aa6e5fc74f75a48ad9f42b747  ./new_lex_from_mac/cmudict.fst
+327d337aa6e5fc74f75a48ad9f42b747  ./test_en_USX_lexicon.fst
+327d337aa6e5fc74f75a48ad9f42b747  ./en_USX_lexicon.fst
+327d337aa6e5fc74f75a48ad9f42b747  ./new_lex_from_mac/cmudict.fst
+327d337aa6e5fc74f75a48ad9f42b747  ./test_en_USX_lexicon.fst
