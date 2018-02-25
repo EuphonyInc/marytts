@@ -1,3 +1,5 @@
+pausefive | _ _ _ _ _
+pauseten | _ _ _ _ _ _ _ _ _ _
 Sathish | ' s A - t I S
 Eire | ' E - r @
 speech | ' s p i tS 
@@ -62,12 +64,11 @@ who're | ' h u - r=
 who's | ' h u z
 who've | ' h u - @ v
 why're | ' w AI - r=
-would've | ' h u d - @ v
+would've | ' w U d - @ v
 wouldn't | ' w U d _ @ n t
 you'll | ' j u - @ l
 you're | ' ju - r=
 it | I t | (prp)
-pausefive | _ _ _ _ _
 a | @
 Phys | ' f I z
 zigman | ' z I g - m @ n
@@ -81,7 +82,7 @@ librivox | ' l I - b r I - v A k s
 republication | ' r i - p V - b l @ - ' k EI - S @ n
 welled | ' w E l d
 unresting | V n - ' r E s - t i N
-unasked | ' V n - @ s k t
+unasked | ' V n - ' { s k t
 compassionately | k @ m - ' p { - S @ n - @ t - l i
 Mechanicsville | m @ - ' k { - n I k s - v I l
 Housatonic | ' h u - s @ - ' t A - n I k
@@ -225,7 +226,7 @@ deprecate | ' d E - p r I - k EI t
 Grimkes | ' g r I m - k i z
 counselling | ' k aU n - s @ - l i N
 debarred | d i - ' b A r d
-criticising | ' k r I - t I - s AI - s i N
+criticising | ' k r I - t I - s AI - z i N
 uncompromisingly | V n - ' k A m - p r @ - m AI - z i N - l i
 discriminatingly | d I s - ' k r I - m I - n EI - t i N - l i
 disfranchise | d I s - ' f r { n - tS AI z
@@ -248,14 +249,17 @@ McFee's | m @ k - ' f i z
 Steward's | ' s t u - r= d z
 companion's | k @ m - ' p { n - j @ n z
 companion | k @ m - ' p { n - j @ n
-Thorpe's | ' T O r p z
+Thorpe's | ' T O r p s
 Factor's | ' f { k - t r= z
 today's | t @ - ' d EI z
-subtlely | ' s V - t @ l - t i
+subtlely | ' s V - t @ l - l i
+subtlety | ' s V - t @ l - t i
 yangtze | ' j { N - ' s i
 Nakata's | n A - ' k A - t @ z
 provocaters | p r @ - ' v A - k @ - t r= z
 roadmate | ' r @U d - m EI t
 reclined | r I - ' k l AI n d
-
+roger's | ' r A - dZ r= z
+whoopidoo | ' w U - p i - ' d u
+whoopdidoo | ' w U p - d i - ' d u
 
