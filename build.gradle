@@ -1,4 +1,13 @@
-allprojects {
-    version '5.3-SNAPSHOT'
-    buildDir 'target'
+plugins {
+  id "de.dfki.mary.voicebuilding.marytts-kaldi-mfa" version "0.2.0"
 }
+
+convertTextToMaryXml {
+    srcDir = file("/home/fuz/voice_production/corpus/LJSpeech-1.0/build_prep_ready/text")
+}
+prepareForcedAlignment {
+    wavDir = file("/home/fuz/voice_production/corpus/LJSpeech-1.0/build_prep_ready/wav_edit")
+//    dictFile = file("/home/fuz/marytts/marytts-languages/marytts-lang-en/src/main/resources/marytts/language/en_US/lexicon/cmudict.fst")
+    convertTextGridToXLab.tgDir = file("/home/fuz/voice_production/corpus/LJSpeech-1.0/build_prep_ready/TextGrid")
+//    destDir = file("/home/fuz/voice_production/voice_builds/flj/mary/flj_22050_baseline_01/mfa_out")
+}     
